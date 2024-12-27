@@ -1,6 +1,6 @@
 # Miside Google Translate Mod
 
-I felt bored so I translated all of Miside
+I felt bored so I Google translated all of Miside
 
 If the game crashes make an issue ticket.
 
