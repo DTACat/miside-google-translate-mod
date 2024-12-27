@@ -4,7 +4,7 @@ I felt bored so I translated all of Miside
 
 If the game crashes make an issue ticket.
 
-## How to install
+## How to install the mod
 
 1. Make sure you own a copy of the full version of Miside, you can buy it [here](https://store.steampowered.com/app/2527500/MiSide/)​.
 
@@ -22,4 +22,4 @@ If the game crashes make an issue ticket.
 
 ## How to uninstall the mod
 
-Go to "Manage > Properties... > Installed Files > Verify this game's files are installed correctly" then click "Verify integrity of game files"
+Go to "Manage > Properties... > Installed Files > Verify this game's files are installed correctly" then click "Verify integrity of game files" (This might uninstall any other mods you have installed)
