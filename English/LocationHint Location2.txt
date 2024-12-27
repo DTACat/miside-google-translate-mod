@@ -1,6 +1,6 @@
-Have a look around.
-Find the required objects and place them on the scanner.
-Scan the objects and start the machine.
-Go to the fuse box by the front door.
-Find and return the missing batteries to the machine.
-Start the machine.
+Look around you.
+Find what you want and enter it in the search box.
+Connect the battery and start the car.
+Go to the fuel tank near the main entrance.
+Find the missing battery and put it in the car.
+The car started working.

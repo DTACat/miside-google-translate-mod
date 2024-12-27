@@ -1,5 +1,5 @@
-New clothes available!
-Not available
+Buy new clothes!
+He is gone
 
 
 
@@ -7,7 +7,7 @@ Not available
 
 
 
-Default
-School
-Vampire
+it's ok
+school
+the vampire
 Christmas

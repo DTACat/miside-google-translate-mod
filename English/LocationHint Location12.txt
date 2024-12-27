@@ -1,5 +1,5 @@
-Look around.
-Find the exit.
-Find the teddy.
+Look around
+make a decision
+See Teddy.
 Ask questions.
-Go!
+Remove it!

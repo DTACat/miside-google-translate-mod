@@ -1,104 +1,104 @@
 // Player thinks + Make coffee
-I'll need someone's help here.
-I hope the Mita here doesn't bite...
+i need help
+Unfortunately, the code doesn't work here...
 
-What am I wasting my time on...
+Why should I waste my time?
 
 
 
 
 // Player tries to wake up MitaDreamer
-Mita?
-Mita, wake up!
-Mita!
+Is this a myth?
+Hey Miles, wake up!
+People with a past!
 
-Mita, wakey-wakey!
+Hey Miles, wake up!
 I need your help.
 
-Who are yooouuu?
+who are you
 
-Help me with the switches.
+Please change the situation.
 
-What switches?
-Let me sleep...
-Or get me a coffee.
+Are they changing?
+i'm sleeping...
+Or bring coffee
 
-The coffee maker's just over there.
-Mita?
-Mi-ita!
+A coffee machine is also available.
+Is it a fairy tale?
+i am you
 
 
 
 // Player gives away the coffee
-Mita,
-here's your coffee.
+M,
+This is your coffee.
 
 
 
 // MitaDreamer exercise
-Switches,
-you say?
+work
+you said
 
-Yes.
+to attack
 
-How come you know about them?
-Though, why do I even ask...
-Considering you're here,
-you should know plenty already...
+As far as I know.
+But still...
+come here
+Here's what you need to know…
 
-Just a minute,
-I need to sit down.
+one minute
+I have to stop
 
-And?
+or this
 
-I don't know what to say...
-But I need to keep going,
-keep following the ring's guidance.
+i'm crazy...
+But I want to continue.
+story
 
-You have her ring?
-No wonder
-you found this place.
+You have a ring
+This is not surprising.
+I found this site
 
-That's right.
-So, can you help me?
-With the switches?
+where.
+can you help me
+on the map
 
-Sure.
-I will.
-With the switches...
+yes yes
+I will do it
+Of course...
 
 
-Mita, come on...
-Let's go already.
+I am…
+go now
 
-Uh?
-All right.
-Let's go.
+i won
+He is dead!
+we all go our own way
 
 
 // MitaDreamer fall
-Get up.
-Are you that sleepy?
+the pen
+Do you sleep a lot?
 
 // MitaDreamer again sleep
-Wake up.
-We're there.
+It's game over
+we are here
 
 
 // Switches
-Okay,
-I'm ready.
+That's good.
+I'm ready
 
-I'm ready, too.
+I'm still ready.
 
-Well.
-I'll start
-the countdown.
-And we'll pull the switches together.
-Okay?
+he said.
+exists
+More information
+Get the key right away.
+he said.
 
-Just keep awake, OK!
-Go.
+Look!
+car
 
 
 3
@@ -106,56 +106,56 @@ Go.
 1
 
 // Player lose 1
-Are you spacing out?
-Come on,
-let's go again...
+You report
+Government development
+Thank you...
 
 // Player lose 2
-One more try?
-Come on,
-I'm...
-I'm falling asleep here...
+Are you trying again?
+come here
+i can do...
+I don't sleep here...
 
 // Player lose 3
-I'm all but falling asleep...
+i fell asleep...
 
 
 
-Wonderful,
-thank you, Mita.
+We cannot see
+Thanks Mita.
 
-Mm-hmm.
-
-
-The doors...
-so...
-slow...
+Dried meat
 
 
-I'm off to bed...
+the other...
+On the other hand...
+Make sure to…
+
+
+i want to sleep...
 
 // Why kitchen?
-Why head to the kitchen?
-If I fall asleep on the cold floor,
-it's your fault.
+Why did you go to the kitchen?
+If you sleep in a cool place at night.
+you are wrong
 
 // Why bathroom?
-I don't understand...
-what switches do you need my help with here?
+I have no idea…
+Need help?
 
 // Put button
-Nothing happened?
-Then what's this button doing here?
+what happened
+How important is this?
 
 // Cofee
-Some more coffee?
-Or you'll fall asleep again.
+game over
+or sleep
 
-What?
-Nooo...
-This coffee tastes terrible...
-I'm totally fine...
+Or is it true?
+No...
+great...
+Bye bye...
 
 // Button
-Mita? The button doesn't work... Can you hear me?
-Hello?
+This gift key is not working. Do you have one?
+Room

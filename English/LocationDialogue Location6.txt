@@ -1,42 +1,42 @@
 
-Mita?
+White rice?
 
-How on earth did you get here?
+How do I get there?
 
-You're Mita, aren't you?
-But there's something different about you...
+you are famous
+But some...
 
-Observant, I see.
-And you're right.
-I'm not the Mita you met before.
-Be careful, she's up to something
-sinister.
+Be careful, I know
+You are safe
+This is not the train you are looking for
+Remember a lot.
+I'm scared
 
-Huh, something sinister?
+So, is it really dangerous?
 
-There's no time to explain:
-if this works out, I'll tell you everything.
-Get the key. It's next to the sofa.
+We don't have time to explain:
+If it's true, I'll tell you everything.
+Take the key and rope.
 
-But...
+but...
 
-Save your questions for later!
-Give me the key.
-Take this ring.
-Huh?
-You want to get out of here, don't you?
-Uhm, yeah...
-Then put it on.
-It's a useful artifact,
-you'll likely need it soon.
+Ask a question!
+take the key
+I can say that
+very
+You want out, don't you?
+And the truth is...
+So let it go
+This is a very good idea
+You have to hurry
 
-Okay...
-By the way, I'm
-[player].
+Welcome to...
+Length
+[player]
 
-Mmm,
-[player].
-I'm... Mita.
+ice
+[player]
+You are a legend...
 
 
 
@@ -46,105 +46,105 @@ I'm... Mita.
 
 
 // MitaKind quest 1
-See that
-console? Pick it up.
+Check it out.
+This is normal. I understand you
 
-Are we watching a recording?
-Who's that with her?
+They want pictures.
+who are they
 
-That's happening this very moment.
-It's another player.
-She's using him.
-She might try to
-turn you into a cartridge, too.
+It's happening now.
+Other sports
+is used
+I work
+telephone
 
-I need to get out of here ASAP.
-And you too.
+I have to go now.
+With you
 
-Yes, we do.
+Yes there is
 
-So, you're saying
-that she's using him.
-If I pull the cartridge out, what happens?
+you say
+When you want to use it
+What happens if my truck is towed?
 
-That may very well
-irreversibly damage the cartridge.
-Which means that...
-the player would die.
+There will be more.
+The box is damaged.
+please...
+lottery
 
 ...
-What if I just turn it off?
+how did you kill me
 
-That could work...
-It's worth trying. There's a red power button!
-You see it?
-Found it.
-Press it.
+Anyone can do…
+It's worth a try. There is a red on/off button!
+opportunity
+Good afternoon
+Click on it.
 
 // MitaKind quest 2
-I need to stay.
-There are questions I need to ask her
-to find out more about her.
-Though, it's unlikely she'll play ball...
+i want to stay
+I have questions for you
+Click here for more information
+Of course I don't play basketball…
 
 // MitaKind quest 3
-Tell you the truth, this is my version.
-I was keeping a player company,
-when something suddenly changed.
-Then she showed up...
-and turned the player into a cartridge
-and locked me up.
+But this is my version.
+I am an artist
+Suddenly, something changed.
+Then...
+Let the reader be the newspaper
+But I doubt it.
 
-Wait, she turned him into a cartridge?
-Can she even do that?
+Go away
+Can you do more?
 But why?
-What does she need the players for?
+Why do we need toys?
 
-She's obviously crazy...
-She's just playing with us, and using us for her own machinations!
-Turning players into cartridges...
-Some didn't even realize what was happening to them...
-And some that do, don't even fight back... Gah!
-Now that's a dark twist...
-You have to help us!
-Me? But how?
-I need you!
-If you help us, I'll help you!
-This might be our only chance.
-The ring will lead you to the right version.
-I'll meet you there.
+This is crazy…
+He plays with us and drives us like a car!
+Trading players for cards...
+Some people don't understand what's going on.
+They don't want to fight.
+get rid of...
+You must help us!
+But how?
+I love you!
+If we can help, we will!
+This may just be your chance.
+This test will help you make the right decision.
+Look at it there
 
 // MitaKind quest 4
-I still don't quite understand
-what I saw up there...
-That Mita...
-Was she trying to kill me?
+I still don't know
+I came here...
+There are...
+They kill you
 
-Kill?
-She has a worse fate than that in mind for you...
-You need to hurry.
+work work
+What's the worst that could happen...?
+You need to prepare as soon as possible.
 
 // Hide!
-Oh, shit! Hide!
-Wait, what...?
-Hurry, she's coming!
-Follow the ring—it'll lead you to safety!
+the room! hide!
+what's wrong
+Hurry, let's find it!
+Continue the cycle; This will take you to a safe place!
 
 
-Well, well, gonna tell me where he's at?
+Tell me, where is it?
 
-Why would I?
-You won't kill him, will you?
+what
+you love it
 
-Ah, so you refuse to tell me.
-Hah, I like a challenge.
-I know he's somewhere around here.
+That's why he didn't tell me.
+Hello, I liked this game.
+I know what it's like.
 
-Why are you so mean to us?
-You won't even tell me what's going on!
-Besides...
-what do you need the players for?
-They're no toys!
-What's gotten into you?!
+what do you think about this?
+You don't know what happened to me!
+so...
+Why do you want to take action?
+This is not a lie!
+Based on!
 
-Enough! Keep your mouth shut, doll!
+I'm sick! Bird!

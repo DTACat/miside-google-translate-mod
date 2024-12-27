@@ -3,17 +3,17 @@ Cracker
 Bubble drink
 Balloon
 // Quest none
-Never mind.
+But be quiet
 // Quest "Meeting Kind Mita"
-Should I trust you?
-How did I get here?
-What is this place?
-How did you get here?
-What did you do with the ring?
-Are the passages dangerous?
-Will you help me escape?
-You mentioned a plan.
+I have to trust you.
+How to reach
+What kind of city is this?
+How did he get here?
+What do you do with your fingers?
+Are the roads dangerous?
+you help me
+I proposed this project.
 // Quest MitaCap
-Do you remember anything?
-What do you think of the ring-bearing Mita?
-Do you always wear that cap?
+What do you remember?
+What do you think about this title?
+Are you still carrying trash?

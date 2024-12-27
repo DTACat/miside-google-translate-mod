@@ -1,45 +1,45 @@
 
-Hey, you!
-Hi!
-You want to get out?
-Then help me find the key!
+Good luck!
+Hello
+He likes to travel
+Help me find the key
 // Key Search
-Shoot! No key here!
-Nothing here—
-zero, zip, nada!
-Found it!
+Don't hit me! No problem!
+There is nothing here -
+Zero, zip, scream!
+Think about it!
 
 // The usual conversation
-Huh, I thought you'd be shorter!
-You're tall—
-just like my sister!
+Yes, I thought you were a man!
+height
+Like brothers!
 
-Your sister? What about her?
+Brother and himself
 
-Yes, my sister.
-Don't say you've never met her!
+He has a brother
+Don't say you don't know!
 
-Uh... I've met her... I think?
+Agreed... What do you think?
 
-Are you a fool?
+you are stupid
 
-Erm...
+,
 
-Turns out you are...
-Come on, just help me find the key already!
+you...
+Help me find the key!
 
 // Next work
-Come.
-Put the iron in the pipe!
-Thank you!
-Now get me that wood!
-Thank you!
-Some more help, please!
-All done! Now...
-wow, that's beautiful.
-Press it, come on!
-Get ready...
-there, take it!
+you
+Dry!
+thank you
+Please give me medicine!
+thank you
+Please help me again!
+Both sides! Once...
+Yeah.
+Click here to get started!
+Game over...
+Know how
 The key is yours!
 
 
@@ -51,37 +51,37 @@ The key is yours!
 
 
 // Quest 1 (Are you Mita?)
-I'm ChibiMita.fbx!
-Tons of lines,
-simplest models, and—
-best of all—gorgeous hair!
+My name is ChibiMita.fbk.
+There are many places
+Here is a simple example
+But the most important thing is good hair.
 
 // Quest 2 (Have we seen each other yet?)
-Sillyhead!
-You're kinda cute, you know,
-asking silly questions like that.
-Though,
-this is my first time meeting you!
+crazy
+You're beautiful, you know that?
+I am asking a simple question.
+my beliefs
+This is my first date with you!
 But listen...
-If you steal my marvelous look,
-I'll make you regret it!
+If you steal, you're my cousin.
+Greetings!
 
 // Quest 3 (Why are you here?)
-Don't you get it?
-This is a checkpoint—
-a test of your wits!
-Now come on!
-I'm here to guide the hopelessly lost!
+you don't know
+let's see -
+Check your predictions!
+Hurry up!
+I have come to guide the lost.
 
 // Quest 4 (Why are you helping me?)
-What makes you so special?
-Why not help you anyway?
+What is your major?
+Does it not help?
 
-What?
+Fortunately, it ended.
 
-So foolish...
-You just appeared out of nowhere!
-You're not supposed to be here,
-so, I'm helping you!
+you fool...
+I need you now!
+He is not here.
+Please help me!
 
-Bye-bye, silly!
+you fool!

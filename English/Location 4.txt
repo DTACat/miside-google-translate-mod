@@ -1,6 +1,6 @@
-Condition: Complete the main story.
-Play a console game.
-Give the sauce a try.
-Avoid looking in the vent.
-Collect the refrigerator magnets.
-Refrain from looking in the oven.
+Requirements: Complete the main story.
+Activate the keyboard.
+Mix well.
+Do not look directly at the source of the gas.
+A set of fridge magnets.
+Do not look into the oven

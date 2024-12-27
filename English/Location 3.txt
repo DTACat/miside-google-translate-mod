@@ -1,16 +1,16 @@
 // Quest none
-Never mind.
+Everything is fine
 // Quest "First Mita"
-Are you Mita?
-What if I want to go back?
-How did I get inside the game?
+he is hungry
+What happens if I want to return?
+How to join the game?
 // Quest "Kitchen eat"
-Your home is cozy.
-When can I go home?
-This feels like a dream…
-Why are the windows all just white light?
-Why use scissors when we could've used a knife?
-Bon appétit!
+Your home is ready to be lived in.
+When am I going home?
+I feel like I'm dreaming...
+Why do all the windows have white lights?
+Why use cases? When can knives be used?
+Let's make food!
 // TV
-Cool Juice!
-Strong JUICE!!!
+Cold water!
+Soap! ! !

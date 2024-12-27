@@ -1,58 +1,58 @@
-Start the application
+Open the application
 
-Confirm login
-Incorrect login
-Programs
-Back
+Confirm your request
+Bad choice
+Make a plan
+Come right back
 
-Virtual Device Manager
-Server Unit Accounting [Select Version]
-Main Processor Monitoring [Select Version]
-Graphical Process Monitoring [Select Version]
-Quadrangle
-End game
-
-
-Advanced System Administration
-Restarting Character [Select Version]
-Restarting Device [Select Version]
-Version Update [Select Version]
-Recalculating Geometry [General]
+A true leader
+Search Tools [Choose Method]
+Control panel [select mode]
+Show image [optional]
+Evan
+The game is over
 
 
-
-
-System Restore
-Troubleshooting [General]
-Antivirus [General]
-Command Console [General]
+Improvement process
+More [Choose a genre]
+Update your phone [optional]
+update [optional]
+Descriptive Geometry [Handbook]
 
 
 
 
-Advanced Functions
-Delete Object [Select Version]
-Display Camera [Select Version]
-Display Triggers [Select Version]
-Physics Engine Settings [Select Version]
-Get Flash Drive
-
-
-
-Minor Functions
-Binary Code Editor [Special Access]
-Unit Matrix Editor [Special Access]
+recovery process
+problem [knowledge]
+security [education]
+How to buy [News]
 
 
 
 
+congratulations!
+Uninstalling Software [Standard Mode]
+Camera View [Custom Mode]
+Show warning [optional]
+technology [title]
+to be strong
 
-Specify Character Version
-Specify Character Index
-Confirm Reboot
-Use Lever
-Run Subprogram
-Restart process running!
-Preparing For Restart
-Restarting...
-Confirm
+
+
+Put some work into it
+Guide to Dual Signatures [Special Edition]
+Control matrix [human alcohol]
+
+
+
+
+
+View your registration status
+Shows word count
+Confirm the update
+Use support
+Open the application
+Restart the system!
+Prepare to reboot
+Update...
+Write about this topic

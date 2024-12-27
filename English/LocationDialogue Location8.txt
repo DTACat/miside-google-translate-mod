@@ -1,84 +1,84 @@
 // The first meeting
-Who are you?
-What's the matter?
-Can't you speak?
+Who are you
+on top
+you can't talk
 
 
-Wait...
-You want to leave, don't you?
+Woke up...
+You don't have to go there
 
-Yes...
-I need to get back
-to the previous version.
+That's good…
+I have to go back
+Of old Bibles
 
-The previous version?
-Why leave and go
-someplace else?
-Why not stay here
-and be my
-second friend?
+Old books?
+how have you been
+somewhere else
+Why don't you stay there?
+Here i am
+another friend
 
 // Skipping all dialogs
-Okay...
+So...
 
 // Standing by the window (Random)
-You won't find your way out through doors.
-You seem to be in a hurry...
-Running in circles won't save you.
-So eager to escape?
-Look outside the windows...
+I can't find my way to the door.
+He speaks English
+Running in circles doesn't work.
+Do you really want to run?
+Look out the window...
 
 
 // Quest 1 (Aren't you Mita?)
-Player... you're a player, aren't you?
-We can play together.
-If I can find the strength,
-all we need to do is play.
+Players are players, right?
+You can play together.
+When it is currently in effect.
+Just play the game.
 
 // Quest 2 (What happened to you?)
-I'm uncertain, and I actually don't know...
-I don't think anything bad has happened...
-But everything good seems to be slipping away...
-Though, at least I have a friend.
-Why did they leave me?
-Was I not enough?
-I'm scared...
+I don't know, I don't know...
+I think it's okay...
+But it doesn't matter...
+But I am a friend.
+Leave me alone
+I feel good
+I'm afraid...
 
 // Quest 3 (Become a second friend?)
-Friends...
-I have so few left now.
-Only one remains...
-I'm sad, player.
-Will you be my friend?
+I hope it rains...
+not much
+and he...
+He is a great player.
+you want to be my friend
 
-I'd love to,
-but I have to go on...
+it is possible
+but I have to go...
 
-My heart aches...
+My heart hurts a lot...
 
 // Quest 4 (Is this your house?) - MitaLittle
-Home?
-Player...you've changed...
-Your arms are shorter, and you don't look so angry...
-Player, you've grown softer, kinder.
+at home
+You players have changed.
+Open your hands and don't get angry.
+Bad friends, good friends, good friends.
 
-I'm not sure...
-what that means.
+I have no idea...
+What's this
 
-It's okay...
-because I won't hurt anymore, will I?
+It's just...
+Because I don't want to bother you anymore?
 
 // Quest 5 (How do I leave this place?)
 Are you really leaving me?
-Is this perhaps just my...
-destiny?
+Welcome to the...
+It makes you anxious
 
-I...
+Yes...
 
-The doors won't help you.
+Doors are important.
 
 // Hold player (Random)
-Why leave?
-Stay here...
-Play with me...
-Player...
+where did he go
+here...
+play with me
+Actor...

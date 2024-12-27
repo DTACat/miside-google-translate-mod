@@ -1,9 +1,9 @@
 // Player start
-Where am I?
-This place looks familiar.
-Wait... I'm in the game?
+where am i from
+This place is famous.
+Wait...what's your name?
 // Player try open the door
-Locked?
+This is illegal
 // Player in dark
-It's dark in here.
-I can't see anything.
+It's dark here.
+I do not know

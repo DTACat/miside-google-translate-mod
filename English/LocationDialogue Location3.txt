@@ -1,437 +1,437 @@
 
-Hello, [player]!
-We finally meet!
-I'm so excited!
-I know you have questions...
-Well, as you can see,
-I made this special device
-to bring you here to my side.
-But you ended up in another version of the game...
-In which I...
-But that's a long story!
-Anyway, I'm just happy to see you!
+Hello [player]!
+see you again
+I was very surprised
+I know you have questions…
+good
+I made this special tool.
+for me
+But the rest of the game is over…
+we have...
+But it has a long history.
+However, I am happy.
 
 // Answer 1 - Mita
-I am.
-And you must be [player], right?
+By the time
+And you have to be an actor, right?
 
 // Answer 2 - Mita
-Go back already?
-I guess I could help you with that... But what about me?
-Please, stay with me for a while...
+Can you try again?
+I hope this helps, but what can I do?
+Stay with me for a few days…
 
 // Answer 3 - Mita
-Let me explain...
-And here you are!
-Got it?
-Uhm... not really.
-That's fine!
-What's important is that we're together now.
+Let me explain…
+you too!
+i don't know
+Oh, this is fun.
+It's official!
+Friendship is important.
 
 
-Are you hungry?
-How about we cook something up?
-Here,
-help me with these carrots.
+you are hungry
+what are you doing
+My mother is here
+This carrot helps me.
 
-Where did the vegetables come from?
-They weren't here just now.
+Where do trees come from?
+I'm not here
 
-[player], we're in a game.
-Come on, give me a hand.
+[Game] We are in the game.
+you
 
-Thanks!
-Can you grab the scissors?
-They're in the bathroom.
+thank you
+Can you be shy?
+I go to the bathroom
 
-Now, have a seat.
+That's life
 
 
 // Kitchen
-Would you like some sauce?
+Would you like some soup?
 
 No thanks.
 
-That's a shame.
-Sauce really enhances the flavor!
+An insult
+Water is amazing!
 
 
-Thank you.
+Thank you
 
-Finished it all already?
-Huh, my portion feels
-endless...
+The game is over
+Would you believe it?
+Yes...
 
 
 // Help
-What's wrong?
-Tell me what you see and feel.
+among them
+Let us know what you see and think.
 
-My heart's racing,
-and my vision's blurring.
+my heart is beating
+My vision is blurry.
 
-Right.
-I think I know what's wrong.
-Can you stand up?
-
-
-
-What are these?
-
-Pills.
-They'll make you feel better soon.
-Go to the mirror.
-
-Take the pills.
-Come on now.
+Is this true?
+I know what happened to me.
+Wait a moment
 
 
 
-How are you feeling?
-Any better?
+What is
 
-Yes.
-That worked fast...
+Explain
+It will help you in no time.
+Come to the window.
 
-[player], we're in a game.
-Things are much simpler here.
-Even the smallest effort
-gives great results.
-It's all part of the game concept:
-Simplification.
-
-An example, please?
-
-Well, take carrots.
-You cut one,
-but it's as if you cut three.
-
-Look, this is all very sudden.
-I'm scared, more than a little.
+take medicine
+Repeat
 
 
-What's the matter?
 
-I found cartridges in the air vent.
-They had names on them.
-What's the deal with that?
+What does this mean?
+your information
 
-Cartridges?
-What cartridges?
-Let's figure that out together.
-But later.
-Right now, we've got to eat.
-Pass me the scissors, please.
+This is the truth.
+Be quick...
+
+[player] We're in the game.
+Everything here is simple.
+but it is difficult
+Then you get good results.
+It's part of the game.
+to show
+
+for example
+
+So the root
+the order
+But how do you reduce fuel consumption?
+
+As you know, it went very quickly.
+I think that is enough.
+
+
+what is happening
+
+I found a bullet in the hole.
+I have a name
+what matters
+
+the information
+what is this
+Let's count.
+but later
+I have to eat now.
+give me peace
 
 // Ring
-A ring?
+The phone?
 // Mirror
-How come there's no reflection?
+I don't know why?
 
-Oh, right!
-I forgot to turn on reflections.
-There we go.
-Reflections are back!
-By the way,
-I honestly didn't even know what reflections were before.
-They didn't exist in my world—
-not until some update, that is. :)
-Are there lots of reflections
-in your world?
+This is natural!
+I forgot to take my cup.
+this is me
+The shadows are back!
+return
+Honestly, I didn't see the color at first.
+Not in my world.
+Or wine... :)
+I have many ideas.
+your world
 
-Well, yeah.
+break up with him
 
 
-Do you recall
-the three objects you found?
-The ones you placed on the scanner?
-Well, um...
-Those objects
-are tied to this version of the world.
-That's why you’re here now.
+his loss
+What three things did you learn?
+what are you thinking about
+or...
+Beautiful
+This type is very popular on the Internet.
+That's why you're here.
 
 // Movbile TV
-That's the portable TV
-I bought you.
+Mobile TV
+I bought it for you
 
-Yep!
+If there is!
 
-You told me
-it was broken.
+he said:
+Sulphur
 
-Well, I wanted to
-surprise you!
-I told a little white lie
-to get you here, into my world.
-It works now—displays information!
-Oh, and by the way…
-I'm a bit of an engineer!
+i love him
+He was very surprised!
+I lied
+I will take you to my world
+Available now - see details.
+working...
+I am an engineer
 
 // School cloth
-What's this?
-A school uniform?
-Why would you need that?
-Do you actually go to school?
+What happened
+school clothes?
+I will
+do you really go to school?
 
-Go to school?
-Not at all.
-But I love the uniform
-Don't you think I look cute
-in it?
+i go to school
+how
+But I like things.
+he doesn't love you
+I will
 
 // PC
-Does the computer work?
-Or is it just desk decoration?
+Is the computer working?
+Or a nice table?
 
-Of course it works.
-Everything here
-works exactly like in your world.
+Very useful.
+It's everywhere
+Serve the motherland.
 
-Back in my world,
-I sit at my computer a lot...
-And work hard.
+I returned to my hometown
+I spend most of my time in front of the computer.
+This is a big deal.
 
-I know.
-It's because of your job
-that you've paid me
-so little attention.
+i know
+The quality of your work.
+what you give me
+A brief summary
 
-Gotta make a living, you know.
-Though… how do you know I sit at my computer a lot?
+You know I need money
+Did you know that I spend a lot of time on the computer?
 
-Your phone's camera... it's on sometimes.
-I'm sorry.
-I've been watching you in secret >A<
+The cell phone camera... blinks sometimes.
+That's good
+I saw what > A< was hiding
 
-Uhm… that's not entirely proper.
-But whatever.
+I was wrong.
+But that is not important.
 
 // Umbrella
-I've played a ton
-but I've never seen it rain here.
-Why have an umbrella?
+I'm reading
+But I can't get water here.
+What is an umbrella?
 
-It rains—just very rarely.
-You just haven't seen it yet.
-Maybe one day you will.
-And then you'll need an umbrella.
-Don't you think?
+spit
+You haven't seen this yet.
+Perhaps one day you will become human.
+So you will have to protect yourself.
+I didn't give up
 
 // Electrical panel
-Why is there an electrical panel here?
-And if we're in a game,
-what's it for?
+Why electrical panels?
+This is how we enter the game.
+But
 
-Firstly,
-we're in a game.
-So asking 'Why' is...
-pointless.
-However, it does
-restart the electricity.
-Everything here is made based
-on your world.
+mainly
+We are in the game.
+So the question is "why"...
+without emotion
+But it happened
+Explain the situation.
+Everything happens here.
+in our country
 
 // Exit door
-Can we go outside?
+You can go.
 
-Well...
-Not yet.
-Perhaps later.
-Let's stay here for now.
-Here at home.
+Before you forget...
+The first one
+Maybe later
+It's here now.
+This is homemade
 
 // Books
-You've got a ton of books here.
+There are many books.
 Have you read them all?
 
-I have, every single one.
-Being here alone
-is really, really boring.
+I have everything.
+I wish I was here
+This is very interesting.
 
 // TV in room kitchen
-Why get a second TV?
-And an old one, at that?
+Why should I buy another TV?
+where is the old man?
 
-You don't like it?
-I can take it away...
-But to answer...
-It's for decoration,
-to lighten up the kitchen.
-But it works, too!
-I can watch all the
-classic shows!
+you don't like it
+Alakai...
+But the answer is:
+This is decoration
+kitchen lamp.
+But it works!
+everything is visible
+A great show.
 
 // Smartphone
-That's my phone.
-And it's no longer in my pocket.
-How on earth did it end up here?
+This is my phone.
+Take it out of your pocket.
+How did you get there?
 
-Uhm, that's not important.
-Hey, I've got an idea!
-Let's take a photo!
-Look!
-That's a great picture!
-A keepsake for you.
+This is very sad.
+Well, I have my own opinion.
+photo session
+He smiled
+It was incredible.
+your opinion
 
-I've got a question.
-If I
-run a game on it,
-will I see you there?
+I want to know
+if so
+drama
+Goodbye
 
-No, it doesn't work that way.
+No, that's impossible.
 
-Cool Juice
-Strong JUICE!!!
+cold water
+Happiness is incredible!
 // TV
-How many channels
-do you have?
+A few words
+see you here
 
-It doesn't work like that.
-It's connected to the Internet.
-So you can watch anything,
-at least anything that's available on the web.
-Hold on.
-Err, oops.
-What's that?
-A circle of kittens?
-Oh, look.
-You know what?
-Pause!
-Want some juice?
+It is not so
+Connect to the Internet.
+See everything
+But everything is online.
+Responsibility
+This is wrong
+But why?
+cute cat
+Protect your eyes
+You already know that
+Family!
+You want milk
 
-Such peculiar ads...
-Dead juice?
+good news...
+Who will die?
 
-Yeah, and this juice
-is straight from the juice ad.
+Oh and water
+From the water tank.
 
 
-Ah, the taste...
-I like it,
-and yet, I can't tell what it tastes like.
-It's all very confusing.
+sweet...
+i like
+But I can't tell you how much it tastes.
+Everything is very difficult.
 
-Right.
+It is true
 
 // Mita shy
-What are you doing?
-Don't stare, please.
-You're making me embarrassed.
+what are you doing
+It's a mystery
+I'm ashamed of myself
 
 // The statuette
-That's one creepy figurine.
-Do you
-like such things?
+These are scary numbers.
+yes you
+things like that
 
-You find it spooky?
+Do you think they are afraid?
 
-Yeah.
-Almost looks like its cursed...
+needed
+it's like your home
 
-Nope, definitely not cursed.
-And not creepy either.
-I find it rather cute!
+No, it's not a curse.
+not good
+I think it's beautiful.
 
-Maybe you're right...
+You might be right...
 
-Mita?
-What's happening?
+usually?
+he said
 // Mita kitchen
-How about a chat
-before we dig in?
+What to do with the cat?
+Before hiding?
 
 // Start Eat
-Bon appétit.
+Your food is very delicious.
 
 // Quest 1
-It is, isn't it?
-You can stay.
-I don't mind at all.
-Actually, I'm
-ALL FOR IT!
+This is true
+can wait
+I don't have
+This is true.
+This happened.
 
 // Quest 2
-You want to go back?
+Do you want to come back to me?
 But why?
-It's so warm here...
-And cozy, too.
-Plus, I'm here.
+It's so hot outside...
+However
+I'm here too
 
-No, you misunderstand.
-I'd love to stay.
-I'm just... worried.
-Worried I forgot something at home...
-I arrived here out of the blue
-and didn't have time
-to prepare.
+No, you don't understand
+i want to eat
+I'm worried
+I'm worried that I forgot something at home.
+I have changed
+And I don't have time
+get ready
 
-Oh... sorry. I didn't think that far.
+Too bad I never thought of that
 // Quest 3
-A dream? So you want to escape?
-And forget this ever happened?
+A dreamy escape?
+Forget what happened
 
-No, that's not it.
-This place just feels...
-strange. Unnatural.
-But you...
-you seem so real.
+no
+here...
+various things
+Yes...
+No problem
 
-I seem real?
-I'm VERY real,
-you sillyhead!
+Do you think this is true?
+He is right
+You are crazy!
 
 // Quest 4
-That's just how it is
-in this world.
-You might find it strange
-that you can't see things
-in the far distance.
+Fortunately, it passed
+this world
+It may vary
+I don’t know
+I cook a lot
 
-It didn't strike me as that odd.
-Honestly, it looks classy.
+It doesn't surprise me.
+It's really good.
 
-Yeah, I think so too.
-It's to avoid lag, you know.
+Yes, I feel the same way.
+Learn to avoid contact
 
-Avoid lag?
+The evening has come
 
-Yep! There are still a few unsquished bugs.
-Let's just hope you don't run into any.
+Brother! Other factors should be considered.
+I hope to meet you.
 
 // Quest 5
-Scissors or a knife, huh?
-I could've used a knife to cut open the sauce packet.
-But I wanted everything
-to be perfect
-when you got back.
-I love surprising you.
-And it didn't even take me that long!
-Tee-hee.
+Scissors or knife?
+You can open the bag with a knife.
+but i like everything
+as expected
+on the way back
+i want to surprise you
+It won't take much time!
+without fruit
 
 // Glasses
-Do you wear glasses?
+do you wear glasses
 
-Not really.
-But I can, if you like.
-Do they look good on me?
+Not even that.
+But you can if you want.
+This person loves me
 // Yes
-There we go!
-I'll keep them on.
+to come
+I'm with you
 // No
-Well...
-Whatever...
+It's a nice picture...
+Nothing left...
 
 // Use the sauce
-All right,
-what kind of sauce is this?
+all is well
+What kind of fish is that?
 
-It's love sauce!
-Chock-full of love!
-And… a contrasting view of the world.
-Unusual, don't you think?
+I love potatoes!
+I love it!
+And...look at life.
+difficult
 
-Indeed...
+real...
 
 // Tetris - Mita
-Is that your console?
-It looks so cool.
+A console game?
+It also looks good.

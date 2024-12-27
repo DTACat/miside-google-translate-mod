@@ -1,5 +1,5 @@
 // Snaker
-Defeat!
-Victory!
+Small!
+With reason!
 // DontWork
-Stop!
+But
