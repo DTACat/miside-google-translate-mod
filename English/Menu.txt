@@ -48,7 +48,7 @@ Oral system
 clothes
 helps
 3D Design (2%)
-This size
+Language
 the sky
 They are there
 thank you very much! He's kidding!
@@ -75,7 +75,7 @@ Check the schedule
 Word processing
 Phosphorus
 Meet the players
-Camera Field of View (FOV)
+Gun angle
 zero
 He must die
 He came to the door
@@ -160,6 +160,6 @@ Save time playing.
 Gratitude
 In addition to
 Example:
-video:
+the touch
 Go to the meeting
 The corner of fire
